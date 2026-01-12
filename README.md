@@ -70,9 +70,9 @@ I'm a **Machine Learning Engineer** dedicated to bridging the gap between theore
 I'm always interested in discussing new projects, innovative ideas, or opportunities to be part of something amazing. Feel free to reach out!
 
 - 📧 Email: emmanuelobiasogu32@gmail.com
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/emmanuel-obiasogu)
-- 🌐 Portfolio: [Your Portfolio Website](https://qwertyemma.github.io/chilomax-website/)
-- 🐦 Twitter: [@yourusername](https://x.com/chilomax1)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/emmanuel-obiasogu)
+- 🌐 Portfolio: [My Portfolio Website](https://qwertyemma.github.io/chilomax-website/)
+- 🐦 Twitter: [X](https://x.com/chilomax1)
 
 ---
 

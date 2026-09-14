@@ -1,19 +1,94 @@
-## Hi there, I'm Obiasogu Emmanuel 👋
+# Hi, I'm Emmanuel Obiasogu 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/emmanuel-obiasogu)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:emmanuelobiasogu32@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://qwertyemma.github.io/chilomax-website/)
 
-## 🚀 Machine Learning Engineer | Backend Developer | AI Enthusiast
+### Machine Learning Engineer · AI Systems · Backend Engineering
 
-Building intelligent systems, scalable APIs, and robust infrastructure for the next generation of AI applications. Passionate about transforming complex problems into elegant, production-ready solutions.
+I build and study machine learning systems, with a focus on **deep learning, LLMs, AI systems, and scalable backend infrastructure**.
+
+I'm particularly interested in understanding how models work under the hood — from implementing ideas from research papers to building reliable systems around them.
 
 ---
 
-## 💡 About Me
+## About Me
 
-I'm a **Machine Learning Engineer** dedicated to bridging the gap between theoretical models and production-grade applications. With a deep understanding of AI algorithms and a strong foundation in Backend Engineering, I create systems that are not only smart but also scalable and reliable.
+I'm a Machine Learning Engineer focused on turning ideas from **machine learning research into working systems**.
 
+My work spans:
+
+- 🧠 Deep Learning & Neural Networks
+- 🤖 Large Language Models (LLMs)
+- ⚙️ AI Systems & Model Serving
+- 🐍 Python & Backend Engineering
+- 🔌 Scalable APIs & Infrastructure
+- 🔬 Research implementation & experimentation
+
+I enjoy going beyond using existing abstractions — **implementing, experimenting, benchmarking, and understanding the systems underneath them.**
+
+---
+
+## What I'm Working On
+
+- Building machine learning systems from the ground up
+- Implementing concepts from research papers
+- Experimenting with Transformers and LLMs
+- Developing scalable APIs for AI applications
+- Studying model efficiency, inference, and deployment
+- Sharing what I learn through code and technical projects
+
+---
+
+## Tech Stack
+
+**Machine Learning**
+
+`Python` · `PyTorch` · `NumPy` · `scikit-learn`
+
+**AI / Deep Learning**
+
+`Transformers` · `LLMs` · `Deep Learning` · `Computer Vision`
+
+**Backend & Systems**
+
+`FastAPI` · `REST APIs` · `PostgreSQL` · `Docker` · `Linux`
+
+**Tools**
+
+`Git` · `GitHub` · `Jupyter` · `VS Code`
+
+---
+
+## Selected Work
+
+> A collection of projects exploring machine learning, AI systems, backend engineering, and research implementations.
+
+🔹 **[Project Name]** — Short explanation of what you built and the problem it solves.
+
+🔹 **[Project Name]** — Short explanation of the ML/AI technique explored.
+
+🔹 **[Project Name]** — Short explanation of the system or research implementation.
+
+More projects → **[GitHub Repositories](https://github.com/qwertyemma)**
+
+---
+
+## Research Interests
+
+I'm currently exploring:
+
+**Deep Learning · Transformers · LLMs · AI Systems · Efficient Inference · Model Architecture · Machine Learning Systems**
+
+---
+
+## Connect
+
+I'm interested in connecting with **ML researchers, engineers, open-source contributors, and people building interesting AI systems.**
+
+📧 **Email:** emmanuelobiasogu32@gmail.com  
+💼 **LinkedIn:** [Emmanuel Obiasogu](https://www.linkedin.com/in/emmanuel-obiasogu)  
+🌐 **Portfolio:** [qwertyemma.github.io/chilomax-website](https://qwertyemma.github.io/chilomax-website/)
 - 🔭 Currently working on cutting-edge AI projects and scalable microservices
 - 🌱 Always learning and evolving with the rapidly changing tech landscape
 - 💼 Open to collaborating on innovative ML/AI projects
